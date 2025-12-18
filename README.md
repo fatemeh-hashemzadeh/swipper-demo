@@ -2,9 +2,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/589786ba-3b10-4ff0-9445-7436e65a897f" />
 
 - [Demo Project](https://fatemeh-hashemzadeh.github.io/swipper-demo/)
 
